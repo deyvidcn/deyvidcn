@@ -1,5 +1,10 @@
 # Hello! I am Deyvid Corbal
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deyvidcorbal/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/deyvidcn)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:contact@deyvidcorbal.live)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-flat&logo=About.me&logoColor=white)](https://deyvidcorbal.live)
+
 Software Engineer and Full Stack Developer with a degree in Cybersecurity. Experienced in Linux servers, information security, and infrastructure, with years of experience as a Support and Sustaining Analyst. Currently focused on software and full stack web development, combining technical knowledge and analytical skills to deliver efficient and secure solutions.
 
 
@@ -75,14 +80,5 @@ Software Engineer and Full Stack Developer with a degree in Cybersecurity. Exper
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
-</div><br />
-
-# Contats
-
-<div>
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href= "https://deyvidcorbal.live"><img src="https://img.shields.io/badge/GitHUB-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
-<a href= "mailto:contact@deyvidcorbal.live"><img src="https://img.shields.io/badge/EMAIL-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href= "https://deyvidcorbal.live"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div><br />
 
