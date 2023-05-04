@@ -10,7 +10,7 @@ Software Engineer and Full Stack Developer with a degree in Cybersecurity. Exper
 
 <div >
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deyvidcn&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
-<img height="180em" src="https://github-readme-stat-deyvidcn.vercel.app/api/top-langs/?username=deyvidcn&langs_count=10&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark&hide=hack">
+<img height="180em" src="https://github-readme-stat-deyvidcn.vercel.app/api/top-langs/?username=deyvidcn&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark&hide=hack">
 </div><br/>
 
 ## Technologies used in my daily routine
