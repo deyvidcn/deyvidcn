@@ -8,9 +8,9 @@
 Software Engineer and Full Stack Developer with a degree in Cybersecurity. Experienced in Linux servers, information security, and infrastructure, with years of experience as a Support and Sustaining Analyst. Currently focused on software and full stack web development, combining technical knowledge and analytical skills to deliver efficient and secure solutions.
 
 
-<div >
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=deyvidcn&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
-<img height="200em" src="https://github-readme-stat-deyvidcn.vercel.app/api/top-langs/?username=deyvidcn&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark&hide=hack">
+<div style="display: inline_block">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=deyvidcn&include_all_commits=true&count_private=true&show_icons=true&theme=dark&cache_seconds=600">
+<img height="200em" src="https://github-readme-stat-deyvidcn.vercel.app/api/top-langs/?username=deyvidcn&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark&hide=hack,c%2B%2B,jupyter%20Notebook,vue">
 </div><br/>
 
 ## Technologies used in my daily routine
